@@ -43,3 +43,15 @@
 <br clear="left" />
 
 ## Seymour Cray (1925-1996)
+
+## Tony Hoare (1934-)
+<img align="left" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/220px-Sir_Tony_Hoare_IMG_5125.jpg">
+
+**Born:** Colombo, British Ceylon
+
++ QuickSort
++ Hoare Logic
++ Null reference
++ Structured Programming
+
+<br clear="left" />
